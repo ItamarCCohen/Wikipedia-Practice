@@ -1,0 +1,103 @@
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: calc(1em * 0.875);
+    color: #202122;
+    line-height: 1.6;
+    direction: ltr;
+
+}
+
+#firstHeading{
+direction: ltr;
+color: #000;
+margin: 0;
+border-bottom: 1px solid #a2a9b1;
+font-weight: normal;
+margin-bottom: 0.25em;
+padding: 0;
+font-family: 'Linux Libertine','Georgia','Times',serif;
+line-height: 1.3;
+font-size: 1.8em;
+overflow: visible;
+}
+
+#firstP{
+    font-family: sans-serif;
+    color: #202122;
+    font-size: calc(1em * 0.875);
+    line-height: 1.6;
+    direction: ltr;
+    margin: 0.5em 0;
+}
+
+.underlineHeadings{
+direction: ltr;
+color: #000;
+margin: 0;
+overflow: hidden;
+border-bottom: 1px solid #a2a9b1;
+font-weight: normal;
+margin-bottom: 0.25em;
+padding: 0;
+font-family: 'Linux Libertine','Georgia','Times',serif;
+line-height: 1.3;
+margin-top: 1em;
+font-size: 1.5em;
+}
+
+.infobox{
+font-family: sans-serif;
+direction: ltr;
+border: 1px solid #a2a9b1;
+background-color: #f8f9fa;
+color: black;
+margin: 0.5em 0 0.5em 1em;
+padding: 0.2em;
+float: right;
+clear: right;
+font-size: 88%;
+line-height: 1.5em;
+width: 22em;
+border-spacing: 2px 5px;
+}
+
+
+
+#mw-panel{
+    font-family: sans-serif;
+    position: absolute;
+    top: 0;
+    width: 10em;
+    left: 0;
+    font-size: inherit;
+    padding-left: 0.5em;
+}
+
+.whole{
+    font-size: 100%;
+    margin: 0;
+    height: 100%;
+    font-family: sans-serif;
+    background-color: #f6f6f6;
+    overflow-y: scroll;
+}
+
+
+#bodythatmf{
+    position: relative;
+    top: 50px;
+    left: 200px;
+    border-left-style:solid black;
+
+
+}
+#menudiv{
+    position:absolute;
+    top:50px
+    
+}
